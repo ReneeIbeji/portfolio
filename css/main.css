@@ -10,6 +10,11 @@ body {
 
 header{
     margin-bottom: 60px;;
+    font-style: none;
+}
+
+a {
+    color: gray;
 }
 
 #nameTitle {
