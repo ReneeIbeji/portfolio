@@ -17,6 +17,10 @@ a {
     color: gray;
 }
 
+button{
+    z-index: 5;
+}
+
 img {
     width: 500px;
     height: 100%;
