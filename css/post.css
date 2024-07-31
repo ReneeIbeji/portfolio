@@ -1,0 +1,23 @@
+
+@media only screen and (max-width: 768px) {
+    body{
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 90%;
+    }
+    
+}
+section{
+    margin-bottom: 100px;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+pre{
+    white-space: pre-line;
+}
