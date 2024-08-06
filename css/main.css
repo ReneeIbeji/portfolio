@@ -1,4 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+::selection {
+    background-color: #8b8b8b;
+    color: #fff;
+}
+
+.darkmode--activated  ::selection {
+    background-color: #8b8b8b;
+    color: #fff;
+}
+
+
 body {
     font-family: "Raleway", sans-serif;
     background-color: white;
