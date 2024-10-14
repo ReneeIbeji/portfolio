@@ -41,8 +41,16 @@ img {
 
 .darkmode--activated .invert-image{
     filter: invert(1);
-  }
-  
+}
+
+#rssLink{
+    font-size: 1.5rem;
+    text-align: right;
+    color: #575757;
+    font-weight: 700;
+}
+
+
 #nameTitle {
     font-size: 3rem;
     margin-bottom: 10px;
@@ -51,6 +59,12 @@ img {
 #proTitle {
     margin-top: 10px;
     font-size: 2rem;
+}
+
+#AboutMe a{
+    font-size: 1.5rem;
+    color: #575757;
+    font-weight: 700;
 }
 
 
