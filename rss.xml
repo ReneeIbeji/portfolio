@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Renee Ibeji's website</title>
+    <link>https://reneeibeji.github.io/portfolio/</link>
+    <description>Renee Ibejis portfolio and blog posts</description>
+    <item>
+      <title>My Corne Keyboard</title>
+      <description>Everything about the CRKBD I built</description>
+      <link>https://reneeibeji.github.io/portfolio/logs/CRKBD.html</link>
+      <pubDate>Mon, 14 Oct 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellar Wardents - Player Movement</title>
+      <description>A post about the grid system for the GMTK2024 game I made with a group</description>
+      <link>https://reneeibeji.github.io/portfolio/logs/ShadowDance-PlayerMovement.html</link>
+      <pubDate>Wed, 4 Sep 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shadow Dance - Player Movement</title>
+      <description>A post about the programming the player movement for my game</description>
+      <link>https://reneeibeji.github.io/portfolio/logs/StellarWardens-GridSystem</link>
+      <pubDate>Wed, 31 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
