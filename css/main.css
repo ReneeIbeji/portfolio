@@ -45,9 +45,13 @@ img {
 
 #rssLink{
     font-size: 1.5rem;
-    text-align: right;
     color: #575757;
     font-weight: 700;
+    position: absolute;
+    margin-right: 100px;
+    right: 0;
+
+    top: 0;
 }
 
 
@@ -62,7 +66,7 @@ img {
 }
 
 #PageLinks a{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #575757;
     font-weight: 700;
 }
